@@ -2,3 +2,4 @@
 venv/
 .env/
 emails/.env.yaml
+_pycache_/
