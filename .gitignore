@@ -2,4 +2,5 @@
 venv/
 .env/
 emails/.env.yaml
-_pycache_/
+__pycache__/
+google-credentials.json
